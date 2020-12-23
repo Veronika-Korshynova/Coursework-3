@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>edit.png</file>
+        <file>save.png</file>
+        <file>checked.png</file>
+        <file>unchecked.png</file>
+        <file>bread.png</file>
+        <file>check.png</file>
+        <file>info.png</file>
+        <file>plus.png</file>
+        <file>delete.png</file>
+    </qresource>
+</RCC>
